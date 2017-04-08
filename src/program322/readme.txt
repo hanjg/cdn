@@ -1,0 +1,2 @@
+降低开始计算stopcount的值
+当最优个体超过enhanceLine时，停止适应度尺度变换
